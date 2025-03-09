@@ -129,8 +129,8 @@ We welcome contributions!
 
 ## 📩 Contact
 👤 **Yaswanth Dhulipalla**  
-📧 your.email@example.com  
-📚 [LinkedIn](https://www.linkedin.com/in/yourname)  
+📧 yaswanthdhulipalla149@gmail.com  
+📚 [LinkedIn](https://www.linkedin.com/in/yaswanth-dhulipalla-1920a724b/)  
 
 ---
 
