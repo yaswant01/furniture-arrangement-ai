@@ -31,8 +31,8 @@ This project is an **AI-powered furniture arrangement system** that optimizes ro
 ## 💪 Installation
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/furniture-arrangement-ai.git
-cd furniture-arrangement-ai
+git clone [https://github.com/yaswant01/furniture-arrangement-ai.git
+cd furniture-arrangement-ai]
 ```
 
 ### 2️⃣ Create a Virtual Environment (Optional but Recommended)
@@ -136,7 +136,7 @@ We welcome contributions!
 
 ## ⭐ If you found this useful, give it a star! ⭐
 ```
-🌟 GitHub Repository: https://github.com/yourusername/furniture-arrangement-ai ⭐
+🌟 GitHub Repository: https://github.com/yaswant01/furniture-arrangement-ai ⭐
 ```
 
 ---
