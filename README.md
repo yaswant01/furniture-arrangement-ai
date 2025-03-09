@@ -75,12 +75,10 @@ This will launch a **web-based UI** where you can:
 
 ## 📸 Screenshots
 ### 1️⃣ Streamlit UI
-![Streamlit UI](https://user-images.githubusercontent.com/example/ui_screenshot.png) <!-- Replace with an actual screenshot -->
 ![image](https://github.com/user-attachments/assets/6248da67-a504-4e80-807a-277cb62e846e)
 
 
 ### 2️⃣ AI-Suggested Furniture Placement
-![AI Prediction](https://user-images.githubusercontent.com/example/prediction.png)  <!-- Replace with an actual screenshot -->
 ![image](https://github.com/user-attachments/assets/e95f671f-020c-4e9b-bc1c-5ad9a663bea3)
 
 
