@@ -1,7 +1,7 @@
 # 🏡 AI-Based Furniture Arrangement 🏚️
 ### An AI-powered tool to optimize furniture placement in a room based on user-defined constraints.
 
-![AI Furniture Arrangement]([])  <!-- Replace with an actual screenshot -->
+![AI Furniture Arrangement](["C:\Users\YASWANTH\OneDrive\Pictures\Screenshots\Screenshot 2025-03-10 000615.png"])  <!-- Replace with an actual screenshot -->
 
 ---
 
