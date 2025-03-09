@@ -1,7 +1,7 @@
 # 🏡 AI-Based Furniture Arrangement 🏚️
 ### An AI-powered tool to optimize furniture placement in a room based on user-defined constraints.
 
-![AI Furniture Arrangement]([https://www.insyde.com/wp-content/uploads/Insyde-Logo-2018-3-COLOR-R-1.svg])  <!-- Replace with an actual screenshot -->
+![AI Furniture Arrangement]([])  <!-- Replace with an actual screenshot -->
 
 ---
 
